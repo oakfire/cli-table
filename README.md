@@ -6,6 +6,23 @@ your node.js scripts.
 
 ![Screenshot](http://i.imgur.com/sYq4T.png)
 
+## What I modified: zh friendly
+Fix the wrong width of string including chinese charactors.
+###Before
+
+```bash
+┌────────┬────────┐
+│ 第一列    │ 第二列       │
+└────────┴────────┘
+```
+###Now
+
+```bash
+┌────────┬────────┐
+│ 第一列 │ 第二列 │
+└────────┴────────┘
+```
+
 ## Features
 
 - Customizable characters that constitute the table.
