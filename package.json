@@ -1,13 +1,12 @@
-{   "name": "cli-table"
-  , "description": "Pretty unicode tables for the CLI"
+{   "name": "cli-table-zh"
+  , "description": "Pretty zh-friendly tables for the CLI, fork from cli-table"
   , "version": "0.3.1"
-  , "author": "Guillermo Rauch <guillermo@learnboost.com>"
-  , "contributors": ["Sonny Michaud <michaud.sonny@gmail.com> (http://github.com/sonnym)"]
+  , "author": "oakfire <oakfire@163.com"
   , "repository": {
       "type": "git",
-      "url": "https://github.com/Automattic/cli-table.git"
+      "url": "https://github.com/oakfire/cli-table.git"
     }
-  , "keywords": ["cli", "colors", "table"]
+  , "keywords": ["cli", "colors", "table","zh-friendly"]
   , "dependencies": {
       "colors": "1.0.3"
     }
